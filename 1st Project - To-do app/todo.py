@@ -27,6 +27,7 @@ while True:
         
     elif choose == '3':
         print('Thank you for choosing the To-Do list')
+        break
     else:
         print('Invalid operation. Choose 1, 2 or 3')
    
