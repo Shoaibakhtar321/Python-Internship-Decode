@@ -29,8 +29,5 @@ while True:
         print('Thank you for choosing the To-Do list')
         break
     else:
-        print('Invalid operation. Choose 1, 2 or 3')
-   
-    
-    
+        print('Invalid operation. Choose 1, 2 or 3') 
     
